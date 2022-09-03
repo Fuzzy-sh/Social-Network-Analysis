@@ -1,6 +1,7 @@
 # Miscellaneous_projects
 
-## 1- Social Network Analysis:
+## 1- Social Network Analysis: 
+This project consists of the data set and python codes.
 ### Project description: 
 <p>
 
@@ -8,3 +9,5 @@ In order to optimize tourism experience for the tourism industries and tourists 
 
 
 </p>
+
+
