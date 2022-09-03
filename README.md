@@ -10,4 +10,11 @@ In order to optimize tourism experience for the tourism industries and tourists 
 
 </p>
 
+### Data Description:
+
+<P>
+An urban road network dataset for Tokyo city has been chosen and extracted from <a href="https://csun.uic.edu/datasets.html"> csun.uic.edu </a>. This dataset consists of six columns, including Xcoord, Ycoord, START_NODE, END_NODE, EDGE, and LENGTH. The number of edges is 1035446 and the number of nodes is 354297.
+</p>
+
+
 
