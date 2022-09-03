@@ -20,7 +20,8 @@ An urban road network dataset for Tokyo city has been chosen and extracted from 
 This project consists of the data set and python codes.
 ### Project description: 
 <p>
-This project aims to predict patients’ non-attendance for their appointments at the clinic. Patient attendance prediction will help to avoid the problems caused by patients’ non-attendance to their appointment for example delayed medical care and affected the financial status of the business. In health industry, it is important to schedule patients’ appointments in order to ensure smooth and manageable medical cases.  However, schedules are not followed by some patients and they do not come for their appointments.
+This project aims to predict patients’ non-attendance for their appointments at the clinic. Patient attendance prediction will help to avoid the problems caused by patients’ non-attendance to their appointment for example delayed medical care and affected the financial status of the business. In health industry, it is important to schedule patients’ appointments in order to ensure smooth and manageable medical cases.  However, schedules are not followed by some patients and they do not come for their appointments. A dataset on hospital appointment fulfillment is extracted from <a href="https://www.kaggle.com/joniarroba/noshowappointments"> Kaggle</a>. It consists of  110527 samples with 14 variables.
+
 </p>
 
 #### Framework of this work: 
