@@ -1,5 +1,9 @@
 
 
+<a href="https://www.linkedin.com/in/fuzzy-shahidi"><img src="https://img.shields.io/badge/Linkdin-Fuzzy%20Shahidi-blue.svg" alt="DOI"></a>
+
+
+
 # Social Network Analysis: 
 This project consists of the data set and python codes.
 ### Project description: 
